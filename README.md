@@ -8,6 +8,7 @@
   - [General Information](#general-information)
   - [Conclusions](#conclusions)
   - [Technologies Used](#technologies-used)
+  - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -58,11 +59,10 @@
     pip install -r requirements.txt # Install Dependencies
     ```
 
-<!-- ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com). -->
+## Acknowledgements
+* **Subject matter understanding referral links**
+  - What Is a Loan Commitment? Definition, How it Works, and Types [click](https://www.investopedia.com/terms/l/loan-commitment.asp)
+  - Principal: Definition in Loans, Bonds, Investments, and Transactions [click](https://www.investopedia.com/terms/p/principal.asp)
 
 
 ## Contact
