@@ -1,0 +1,11 @@
+# Standard Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large binary files
+*.ipynb_checkpoints/
+
+# Local configuration files
+*.DS_Store
