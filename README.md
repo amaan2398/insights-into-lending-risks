@@ -41,6 +41,7 @@
 * **seaborn (0.13.2):** High-level data visualization library built on matplotlib, offering attractive and informative plots.
 * **scikit-learn (1.5.2):** Comprehensive library for machine learning tasks like classification, regression, and clustering.
 * **statsmodels (0.14.4):** Statistical modeling library for time series analysis, regression, and statistical tests.
+* **spacy (3.8.2):** SpaCy modeling library is for natural language processing tasks.
 
 **Development Tools:**
 
@@ -67,7 +68,8 @@
   - Loan Grading: What it is and how it Works [click](https://www.investopedia.com/terms/l/loan-grading.asp)
   - What Does a Charge-Off Mean? [click](https://www.investopedia.com/terms/c/chargeoff.asp)
   - What is Debt to Income Ratio and How is it Calculated? [click](https://www.homecredit.co.in/en/paise-ki-paathshala/detail/what-is-debt-to-income-ratio-and-how-is-it-calculated#:~:text=DTI%2C%20or%20Debt%2Dto%2D,lenders%20when%20evaluating%20loan%20applications.)
-  -
+  - How Can I Use a Line of Credit? [click](https://www.investopedia.com/terms/l/lineofcredit.asp)
+  - What Is the Interest Coverage Ratio? [click] (https://www.investopedia.com/terms/i/interestcoverageratio.asp)
 
 
 ## Contact
