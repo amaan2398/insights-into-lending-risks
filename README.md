@@ -14,7 +14,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- WIP
+- This project is a demo, where the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+- Identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss.
 <!-- - Provide general information about your project here.
 - What is the background of your project?
 - What is the business problem that your project is trying to solve?
@@ -63,6 +64,10 @@
 * **Subject matter understanding referral links**
   - What Is a Loan Commitment? Definition, How it Works, and Types [click](https://www.investopedia.com/terms/l/loan-commitment.asp)
   - Principal: Definition in Loans, Bonds, Investments, and Transactions [click](https://www.investopedia.com/terms/p/principal.asp)
+  - Loan Grading: What it is and how it Works [click](https://www.investopedia.com/terms/l/loan-grading.asp)
+  - What Does a Charge-Off Mean? [click](https://www.investopedia.com/terms/c/chargeoff.asp)
+  - What is Debt to Income Ratio and How is it Calculated? [click](https://www.homecredit.co.in/en/paise-ki-paathshala/detail/what-is-debt-to-income-ratio-and-how-is-it-calculated#:~:text=DTI%2C%20or%20Debt%2Dto%2D,lenders%20when%20evaluating%20loan%20applications.)
+  -
 
 
 ## Contact
