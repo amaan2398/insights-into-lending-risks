@@ -70,6 +70,8 @@
   - What is Debt to Income Ratio and How is it Calculated? [click](https://www.homecredit.co.in/en/paise-ki-paathshala/detail/what-is-debt-to-income-ratio-and-how-is-it-calculated#:~:text=DTI%2C%20or%20Debt%2Dto%2D,lenders%20when%20evaluating%20loan%20applications.)
   - How Can I Use a Line of Credit? [click](https://www.investopedia.com/terms/l/lineofcredit.asp)
   - What Is the Interest Coverage Ratio? [click] (https://www.investopedia.com/terms/i/interestcoverageratio.asp)
+  - Dot-com bubble [click](https://en.wikipedia.org/wiki/Dot-com_bubble)
+  - Market crash 2000 to 2008 [click](https://en.wikipedia.org/wiki/Stock_market_crashes_in_India#:~:text=As%20per%20the%20latter%20definition,January%2C%20May%20and%20June%202008.)
 
 
 ## Contact
