@@ -141,7 +141,7 @@ The insights will help refine credit policies by identifying and flagging high-r
   - What Is the Interest Coverage Ratio? [click](https://www.investopedia.com/terms/i/interestcoverageratio.asp)
   - Dot-com bubble [click](https://en.wikipedia.org/wiki/Dot-com_bubble)
   - Market crash 2000 to 2008 [click](https://en.wikipedia.org/wiki/Stock_market_crashes_in_India#:~:text=As%20per%20the%20latter%20definition,January%2C%20May%20and%20June%202008.)
-  -US State Abbreviations [click](https://www.bu.edu/brand/guidelines/editorial-style/us-state-abbreviations/)
+  - US State Abbreviations [click](https://www.bu.edu/brand/guidelines/editorial-style/us-state-abbreviations/)
 
 
 ## Contact
