@@ -18,18 +18,15 @@
 ```plaintext
 .
 ├── data
+│   ├── Data_Dictionary.xlsx    # Data dictionary explaining variable definitions
+│   ├── mapping.json            # JSON file for mapping employee title categories
 │   └── raw
-│       ├── loan.csv                # Primary dataset containing loan details (2007-2011)
-│       ├── Data_Dictionary.xlsx    # Data dictionary explaining variable definitions
-│       └── mapping.json            # JSON file for mapping categories or attributes
-│
+│       └── loan.csv                # Primary dataset containing loan details (2007-2011)
 ├── docs
 │   ├── Case_study-Insights_into_Lending_Risks.pdf  # Presentation explaining analysis and results
 │   └── Case_study-Insights_into_Lending_Risks.pptx # PowerPoint version of the presentation
-│
 ├── notebook
 │   └── eda.ipynb                  # Jupyter Notebook containing all EDA code and visualizations
-│
 ├── .gitignore                     # Files and folders to exclude from Git version control
 ├── .pre-commit-config.yaml        # Configuration file for pre-commit hooks
 ├── pyproject.toml                 # Configuration for project dependencies and tools
