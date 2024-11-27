@@ -14,7 +14,6 @@
   - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
 
-<!-- You can include any other section that is pertinent to your problem -->
 ## Repo structure
 ```plaintext
 .
@@ -22,7 +21,7 @@
 │   └── raw
 │       ├── loan.csv                # Primary dataset containing loan details (2007-2011)
 │       ├── Data_Dictionary.xlsx    # Data dictionary explaining variable definitions
-│       ├── mapping.json            # JSON file for mapping categories or attributes
+│       └── mapping.json            # JSON file for mapping categories or attributes
 │
 ├── docs
 │   ├── Case_study-Insights_into_Lending_Risks.pdf  # Presentation explaining analysis and results
@@ -63,9 +62,6 @@
 
   **Ans 3:**
   Objective is to conduct exploratory data analysis (EDA) to identify driving factors behind loan defaults.
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
   -
