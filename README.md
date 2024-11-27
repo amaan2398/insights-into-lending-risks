@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Insights into Lending Risks](#insights-into-lending-risks)
   - [Table of Contents](#table-of-contents)
+  - [Repo structure](#repo-structure)
   - [General Information](#general-information)
   - [Conclusions](#conclusions)
   - [Technologies Used](#technologies-used)
@@ -14,7 +15,28 @@
   - [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
-
+## Repo structure
+```plaintext
+.
+├── data
+│   └── raw
+│       ├── loan.csv                # Primary dataset containing loan details (2007-2011)
+│       ├── Data_Dictionary.xlsx    # Data dictionary explaining variable definitions
+│       ├── mapping.json            # JSON file for mapping categories or attributes
+│
+├── docs
+│   ├── Case_study-Insights_into_Lending_Risks.pdf  # Presentation explaining analysis and results
+│   └── Case_study-Insights_into_Lending_Risks.pptx # PowerPoint version of the presentation
+│
+├── notebook
+│   └── eda.ipynb                  # Jupyter Notebook containing all EDA code and visualizations
+│
+├── .gitignore                     # Files and folders to exclude from Git version control
+├── .pre-commit-config.yaml        # Configuration file for pre-commit hooks
+├── pyproject.toml                 # Configuration for project dependencies and tools
+├── requirements.txt               # Python dependencies required for the project
+└── README.md                      # Project description and repository details
+```
 ## General Information
 - This project is a demo, where largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 - Identify these risky loan applicants, then such loans can be reduced thereby cutting down amount of credit loss.
